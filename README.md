@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>SE104.N11.KHTN - Nhập môn Công nghệ phần mềm</b></h>
+<h1 align="center"><b>SE104.O22 - Nhập môn Công nghệ phần mềm</b></h>
 
 ## Nhóm 5:
 |**STT**|**MSSV**|   **Họ và tên**  |**Chức vụ**|       **Email**      |
