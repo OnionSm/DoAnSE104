@@ -6,7 +6,7 @@
 
 <h1 align="center"><b>SE104.O22 - Nhập môn Công nghệ phần mềm</b></h>
 
-## Nhóm 5:
+## Nhóm 18:
 |**STT**|**MSSV**|   **Họ và tên**  |**Chức vụ**|       **Email**      |
 |-------|--------|------------------|-----------|----------------------|
 |   1   |22520375| Vương Dương Thái Hà |Nhóm trưởng|22520375@gm.uit.edu.vn|
